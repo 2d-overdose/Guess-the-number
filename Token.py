@@ -1,0 +1,2 @@
+Token = "MTAyMDcxOTE3NjI3MDIzMzY2MQ.GqBBD7.VI9h6LtVmwuvQwl9xsAfAL5Ssy2aE1KV0QI4Cc"
+Prefix = "!"
