@@ -13,5 +13,4 @@ The idea of the project:
      * task: how to remove the gray line
      
 3. Maybe:
-     * combine the two branches as I don't need the old one and want the master to be the "latest user version" aka. the one with the window
-     * ask - ignoring
+     create a discord bot
